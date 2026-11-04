@@ -1,0 +1,4 @@
+interface:
+  display_name: "汤底故事创作"
+  short_description: "设计汤底四宫格制作图，统一食材锅具与步骤文字，可联用牛肉场景一次生图"
+  default_prompt: "使用 $soup-story-creator，按我的汤底主题和参考风格生成一张四宫格制作图，展示备料、入锅、煮汤和盛汤，步骤文字与画面一次生成。"
